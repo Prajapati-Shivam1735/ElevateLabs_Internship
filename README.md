@@ -31,3 +31,41 @@ Runs until user chooses to exit
 - The user selects an operation and inputs two numbers.
 - The result is printed.
 - The app repeats until the user chooses to exit.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📝 Console-Based To-Do List Application
+
+A simple, persistent to-do list manager that runs in the terminal.
+
+🚀 Features
+
+  - Add tasks
+  - View all tasks
+  - Remove tasks by number
+  - Persistent task storage in tasks.txt
+
+🛠 What I Did
+
+✅ Wrote a Python script (todo.py) that runs in the terminal
+✅ Created a menu-driven interface using simple input() prompts
+✅ Used lists to store tasks in memory
+✅ Used file handling (open(), readlines(), write()) to save and load tasks
+✅ Made sure the to-do list is persistent (saved in tasks.txt)
+✅ Implemented functions to:
+  - Add tasks
+  - View tasks
+  - Remove tasks
+  - Save/load from file
+
+🚀 Features
+- Add tasks
+- View all tasks
+- Remove tasks by number
+- Persistent task storage in `tasks.txt`
+
+💻 Tools Used
+
+- Python 
+- Text editor - VS Code
+

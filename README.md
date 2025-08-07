@@ -47,12 +47,12 @@ A simple, persistent to-do list manager that runs in the terminal.
 
 🛠 What I Did
 
-✅ Wrote a Python script (todo.py) that runs in the terminal
-✅ Created a menu-driven interface using simple input() prompts
-✅ Used lists to store tasks in memory
-✅ Used file handling (open(), readlines(), write()) to save and load tasks
-✅ Made sure the to-do list is persistent (saved in tasks.txt)
-✅ Implemented functions to:
+- Wrote a Python script (todo.py) that runs in the terminal
+- Created a menu-driven interface using simple input() prompts
+- Used lists to store tasks in memory
+- Used file handling (open(), readlines(), write()) to save and load tasks
+- Made sure the to-do list is persistent (saved in tasks.txt)
+- Implemented functions to:
   - Add tasks
   - View tasks
   - Remove tasks

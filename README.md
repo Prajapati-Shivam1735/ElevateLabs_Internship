@@ -20,7 +20,6 @@ Runs until user chooses to exit
   - Handles input errors and division by zero
   - Loops until the user chooses to exit
 - Structured the code using functions for clarity and reusability.
-- (Optional) Captured a screenshot showing the calculator in use.
 
 🛠️ Tools Used
 - Python 3
@@ -40,11 +39,11 @@ A simple, persistent to-do list manager that runs in the terminal.
 
 🛠 What I Did
 
-- Wrote a Python script (todo.py) that runs in the terminal
+- Wrote a Python script `todo.py` that runs in the terminal
 - Created a menu-driven interface using simple input() prompts
 - Used lists to store tasks in memory
 - Used file handling (open(), readlines(), write()) to save and load tasks
-- Made sure the to-do list is persistent (saved in tasks.txt)
+- Made sure the to-do list is persistent (saved in `tasks.txt`)
 - Implemented functions to:
   - Add tasks
   - View tasks
@@ -65,10 +64,10 @@ A simple, persistent to-do list manager that runs in the terminal.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📰 News Headlines Web Scraper
-    A simple Python script that scrapes top news headlines from a public news website using `requests` and `BeautifulSoup`, and saves them into a `.txt` file.
+A simple Python script that scrapes top news headlines from a public news website using `requests` and `BeautifulSoup`, and saves them into a `.txt` file.
 
 📌 Objective
-    Automate data collection from a public news website by scraping top headlines.
+Automate data collection from a public news website by scraping top headlines.
 
 ✅ What I Did
 

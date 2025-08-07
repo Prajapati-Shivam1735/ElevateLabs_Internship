@@ -64,9 +64,11 @@ A simple, persistent to-do list manager that runs in the terminal.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📰 News Headlines Web Scraper
+
 A simple Python script that scrapes top news headlines from a public news website using `requests` and `BeautifulSoup`, and saves them into a `.txt` file.
 
 📌 Objective
+
 Automate data collection from a public news website by scraping top headlines.
 
 ✅ What I Did

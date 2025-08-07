@@ -38,13 +38,6 @@ Runs until user chooses to exit
 
 A simple, persistent to-do list manager that runs in the terminal.
 
-🚀 Features
-
-  - Add tasks
-  - View all tasks
-  - Remove tasks by number
-  - Persistent task storage in tasks.txt
-
 🛠 What I Did
 
 - Wrote a Python script (todo.py) that runs in the terminal
@@ -68,4 +61,29 @@ A simple, persistent to-do list manager that runs in the terminal.
 
 - Python 
 - Text editor - VS Code
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📰 News Headlines Web Scraper
+    A simple Python script that scrapes top news headlines from a public news website using `requests` and `BeautifulSoup`, and saves them into a `.txt` file.
+
+📌 Objective
+    Automate data collection from a public news website by scraping top headlines.
+
+✅ What I Did
+
+- Used `requests` to fetch HTML content from a news website (BBC).
+- Parsed the HTML using `BeautifulSoup` to extract `<h2>` headline tags.
+- Saved the extracted headlines into a `headlines.txt` file.
+- Handled basic error checking for HTTP response.
+- Documented the process and created setup files (`README.md`, `requirements.txt`).
+
+🛠️ Tools Used
+- Python 3.x
+- `requests` – for fetching web pages
+- `beautifulsoup4` – for parsing HTML
+
+📁 Deliverables
+- `news_scraper.py` – Python script for scraping
+- `headlines.txt` – Output file with collected headlines
 

@@ -88,3 +88,35 @@ Automate data collection from a public news website by scraping top headlines.
 - `news_scraper.py` – Python script for scraping
 - `headlines.txt` – Output file with collected headlines
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Build REST API with flask
+
+A simple REST API built with **Python** and **Flask** for managing user data in memory.
+
+Features
+
+- GET /users – Retrieve all users
+- GET /users/<id> – Retrieve a single user by ID
+- POST /users – Create a new user
+- PUT /users/<id> – Update an existing user
+- DELETE /users/<id> – Delete a user
+
+What I Did
+
+- Created a Flask application to manage user data.
+- Implemented REST API endpoints for:
+  - **GET** – Fetch all users or a single user by ID.
+  - **POST** – Add new users.
+  - **PUT** – Update existing users.
+  - **DELETE** – Remove users.
+- Stored user data in an **in-memory dictionary** (no database).
+- Tested API endpoints using **Postman** and **curl**.
+- Wrote clear usage instructions and examples for testing.
+
+Requirements
+
+- Python 
+- Flask – Web framework for building REST APIs
+- Postman – API testing tool (optional, you can also use curl)
+- curl – Command-line tool to test API endpoints
